@@ -1,0 +1,28 @@
+name: Classically Modern
+favicon: null
+layout_spectrum: 0.1876738874707371
+typography_spectrum: 0.9255225085653365
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.210592286195606
+  lightness: 0.13009470328688622
+  saturation: 0.4215590204112232
+  rhythmicContrast: 0.6645970311947167
+purpose: []
